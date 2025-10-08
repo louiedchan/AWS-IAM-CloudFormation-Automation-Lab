@@ -24,9 +24,7 @@ Name your stack Student-IAM-Lab and deploy it.
 Screenshot #4: CREATE_IN_PROGRESS status.
 ![InProgress](screenshots/Screenshot%202025-10-06%20171516.png)
 Screenshot #5: CREATE_COMPLETE status.
-
-Screenshot(s): _______________________________
-
+![Complete](screenshots/Screenshot%202025-10-06%20172043.png)
 
 
 Step 5: Verify IAM Resources
