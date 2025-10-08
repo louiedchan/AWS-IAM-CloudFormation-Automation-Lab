@@ -7,7 +7,7 @@ Step 1: Sign in to AWS Console
 Log in to your AWS account as the IAM admin user (admin-student). Ensure you are not using the root account.
 Screenshot #1: AWS Console home page showing your admin-student username.
 
-![User List](./screenshots/)
+![User List](screenshots/Screenshot%202025-10-06%20164416.png)
 
 
 
