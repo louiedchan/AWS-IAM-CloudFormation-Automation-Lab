@@ -12,22 +12,12 @@ Screenshot #1: AWS Console home page showing your admin-student username.
 )
 
 
-
-Step 2: Open CloudFormation Service
+Step 2 & 3: Open CloudFormation Service and Upload the Template File
 Navigate to the CloudFormation service and start creating a new stack.
-Screenshot #2: CloudFormation 'Create Stack' setup screen.
-
-Screenshot(s): _______________________________
-
-
-
-Step 3: Upload the Template File
 Upload the iam-template.yaml file that defines your IAM resources.
-Screenshot #3: Confirmation of uploaded YAML file.
+Screenshot #2: CloudFormation 'Create Stack' setup screen and Confirmation of uploaded YAML file.
 
-Screenshot(s): _______________________________
-
-
+![Stack](screenshots/Screenshot%202025-10-06%20171345.png)
 
 Step 4: Create the Stack
 Name your stack Student-IAM-Lab and deploy it.
