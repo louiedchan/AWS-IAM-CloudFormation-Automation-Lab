@@ -8,7 +8,8 @@ Log in to your AWS account as the IAM admin user (admin-student). Ensure you are
 Screenshot #1: AWS Console home page showing your admin-student username.
 
 ![User List](screenshots/Screenshot%202025-10-06%20164416.png)
-
+![Admin Student](screenshots/Screenshot%202025-10-06%20170159.png
+)
 
 
 
