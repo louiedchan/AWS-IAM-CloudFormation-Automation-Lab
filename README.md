@@ -53,6 +53,6 @@ Step 7: Clean Up Resources
 Delete the CloudFormation stack to remove all created resources.
 Screenshot #11: DELETE_COMPLETE confirmation.
 
-Screenshot(s): _______________________________
+![COMPLETION](screenshots/Screenshot%202025-10-06%20180502.png)
 
 
