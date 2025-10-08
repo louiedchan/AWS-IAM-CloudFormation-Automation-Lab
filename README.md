@@ -22,6 +22,7 @@ Screenshot #2: CloudFormation 'Create Stack' setup screen and Confirmation of up
 Step 4: Create the Stack
 Name your stack Student-IAM-Lab and deploy it.
 Screenshot #4: CREATE_IN_PROGRESS status.
+![InProgress](screenshots/Screenshot%202025-10-06%20171516.png)
 Screenshot #5: CREATE_COMPLETE status.
 
 Screenshot(s): _______________________________
