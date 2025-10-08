@@ -34,7 +34,7 @@ Screenshot #6: StudentLabRole policy.
 ![LabRole](screenshots/Screenshot%202025-10-06%20172242.png)
 
 Screenshot #7: StudentLabUser policy.
-![LabUser]()
+![LabUser](screenshots/Screenshot%202025-10-06%20172320.png)
 
 Screenshot(s): _______________________________
 
