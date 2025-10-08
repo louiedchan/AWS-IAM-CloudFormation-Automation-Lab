@@ -56,3 +56,6 @@ Screenshot #11: DELETE_COMPLETE confirmation.
 ![COMPLETION](screenshots/Screenshot%202025-10-06%20180502.png)
 
 
+This lab demonstrates how to automate the creation and management of IAM Users, Groups, and Roles in AWS using CloudFormation. It applies the Principle of Least Privilege by defining specific IAM policies for each entity, ensuring that every user and resource only has the permissions necessary to perform their tasks. The project walks through designing a CloudFormation template, deploying it in the AWS Management Console, validating resources in IAM, and finally cleaning up the environment to prevent unnecessary costs.
+
+By completing this lab, I reinforced my understanding of Identity and Access Management (IAM) concepts such as policies, roles, and user permissions, while also gaining practical experience in Infrastructure as Code (IaC) using CloudFormation — a skill essential for modern cloud security and DevOps practices.
