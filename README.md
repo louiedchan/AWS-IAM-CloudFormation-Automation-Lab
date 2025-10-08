@@ -36,16 +36,16 @@ Screenshot #6: StudentLabRole policy.
 Screenshot #7: StudentLabUser policy.
 ![LabUser](screenshots/Screenshot%202025-10-06%20172320.png)
 
-Screenshot(s): _______________________________
+
 
 
 
 Step 6: Test Least Privilege (Optional but Recommended)
 Create a password for StudentLabUser, log in, and test access to S3 (allowed) and IAM (denied).
 Screenshot #9: StudentLabUser AWS Console login.
+![ConsoleLogin](screenshots/Screenshot%202025-10-06%20174319.png)
 Screenshot #10: Access Denied message in IAM.
-
-Screenshot(s): _______________________________
+![Access]()
 
 
 
