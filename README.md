@@ -29,9 +29,12 @@ Screenshot #5: CREATE_COMPLETE status.
 
 Step 5: Verify IAM Resources
 Check IAM → Roles for StudentLabRole and IAM → Users for StudentLabUser.
-Screenshot #6: CloudFormation Resources tab.
-Screenshot #7: StudentLabRole policy.
-Screenshot #8: StudentLabUser policy.
+
+Screenshot #6: StudentLabRole policy.
+![LabRole](screenshots/Screenshot%202025-10-06%20172242.png)
+
+Screenshot #7: StudentLabUser policy.
+![LabUser]()
 
 Screenshot(s): _______________________________
 
