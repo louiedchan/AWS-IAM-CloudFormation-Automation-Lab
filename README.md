@@ -45,7 +45,7 @@ Create a password for StudentLabUser, log in, and test access to S3 (allowed) an
 Screenshot #9: StudentLabUser AWS Console login.
 ![ConsoleLogin](screenshots/Screenshot%202025-10-06%20174319.png)
 Screenshot #10: Access Denied message in IAM.
-![Access]()
+![Access](screenshots/Screenshot%202025-10-06%20175542.png)
 
 
 
